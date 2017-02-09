@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1045284836238",
+    "firebase_url": "https://fir-database-566a5.firebaseio.com",
+    "project_id": "fir-database-566a5",
+    "storage_bucket": "fir-database-566a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045284836238:android:d0f6d08891b780fe",
+        "android_client_info": {
+          "package_name": "com.omnipresent.soft.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045284836238-8f82c388ii6gvvbn29cshd070ns2c866.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSUWbOsi6aSwaVmltfj3YG9idwwzAdm_4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045284836238-8f82c388ii6gvvbn29cshd070ns2c866.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
