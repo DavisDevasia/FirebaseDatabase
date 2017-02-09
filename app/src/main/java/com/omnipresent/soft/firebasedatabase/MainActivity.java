@@ -11,7 +11,7 @@ import com.google.firebase.database.FirebaseDatabase;
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView MyMessage;
+    TextView MyMessage123;
     Button ReadButton, WriteButton;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
